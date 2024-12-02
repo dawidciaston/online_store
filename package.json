@@ -1,0 +1,24 @@
+{
+  "name": "online_store",
+  "version": "1.0.0",
+  "description": "**Online Store** is a modern e-commerce platform built with **React** (frontend) and **Django** (backend). This project combines a fast, intuitive user interface with a robust server-side architecture, offering seamless online shopping experiences.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.5.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.1"
+  }
+}

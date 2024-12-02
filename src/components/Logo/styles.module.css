@@ -1,0 +1,12 @@
+.aboutLogo {
+    float: left;
+    margin-right: 1rem;
+    width: 200px;
+    height: 200px;
+
+    @media screen and (max-width: 760px) {
+        float: none;
+        display: block;
+        margin: 0 auto 1rem auto;
+    }
+}
